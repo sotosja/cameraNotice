@@ -1,0 +1,2 @@
+# cameraNotice
+notice4Camerause
